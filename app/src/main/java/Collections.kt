@@ -5,3 +5,7 @@ package com.example.test
 // List bersifat mutable dan read only, artinya data yang dimasukkan dapat diubah dan tidak dapat diubah
 // List Read-Only menggunakan listOf
 // List Mutable menggunakan mutableListOf
+
+fun ContohList(){
+
+}
