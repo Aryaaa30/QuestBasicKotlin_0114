@@ -7,5 +7,8 @@ package com.example.test
 // List Mutable menggunakan mutableListOf
 
 fun ContohList(){
-
+    println("=== List ===")
+    // List Read-Only
+    val readOnlyAjab = listOf("A", "B", "C")
+    println(readOnlyAjab)
 }
