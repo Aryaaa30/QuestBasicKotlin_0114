@@ -95,5 +95,7 @@ fun ContohMap(){
 }
 
 fun main(){
-
+    ContohList()
+    ContohSet()
+    ContohMap()
 }
